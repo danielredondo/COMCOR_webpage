@@ -1,6 +1,12 @@
 ---
-title: "About"
-date: "2016-05-05T21:48:51-07:00"
+title: "About us"
+date: "2018-05-05T21:48:51-07:00"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+**Biomedical Research Institute of Granada (ibs.Granada)**
+
+**Non‐Communicable and Cancer Epidemiology Group**
+
+We are a team with a broad multidisciplinary background, leading cancer research in Europe.
+
+We develop our work in the [**Andalusian School of Public Health**](http://www.easp.es/)
