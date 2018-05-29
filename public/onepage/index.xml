@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onepages on SP-Minimal</title>
+    <link>/hugo-sp-minimal/onepage/</link>
+    <description>Recent content in Onepages on SP-Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/hugo-sp-minimal/onepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/hugo-sp-minimal/onepage/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hugo-sp-minimal/onepage/page/</guid>
+      <description>The impact of comorbidities on Cancer Prognosis and Survival: a Population-Based Evaluation Recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger cancer patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly cancer patients are the group with higher cancer incidence rates. As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the cancer registries of Granada and Girona, identified all incident cases (n = 4,678) from five different cancer sites.</description>
+    </item>
+    
+  </channel>
+</rss>

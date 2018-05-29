@@ -1,0 +1,26 @@
+baseurl         = "https://eueung.github.io/hugo-sp-minimal/"
+theme           = "sp-minimal"
+languageCode    = "en-us"
+title           = "CoMCoR"
+disqusShortname = ""
+paginate        = 5
+ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+[params]
+  title       = "CoMCoR"
+  subtitle    = "The impact of comorbidities on Cancer Prognosis and Survival: a Population-Based Evaluation"
+  copyright   = "Released under the MIT license."
+  authorImage = "logo.png"
+
+  #"single" or "multi"
+  renderType = "single"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = ""
+
+  name = ""
+  description = "Comorbidities and colorectal cancer"
+  pageNotFoundTitle = "404 - Page not found"
+
