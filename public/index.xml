@@ -1,83 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>A Hugo website</title>
-    <link>/</link>
-    <description>Recent content on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 13:09:13 -0600</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About us</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 2018 13:09:13 -0600</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Non‐Communicable and Cancer Epidemiology Group, Biomedical Research Institute of Granada (ibs.Granada) Carlos III Institute of Health, Grant/Award Number: CP17/002026
-We are a team with a broad multidisciplinary background, leading cancer research in Spain and Europe.
-We develop our work in the Granada Cancer Registry, at the Andalusian School of Public Health.
-The team: Miguel Ángel Luque Fernández  Doctor con distinción europea y premio de doctorado en Epidemiología y Salud Pública por la Universidad de Granada.</description>
-    </item>
-    
-    <item>
-      <title>Our project: comorbidities and Cancer</title>
-      <link>/2018/01/01/our-project-comorbidities-and-cancer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/01/01/our-project-comorbidities-and-cancer/</guid>
-      <description>The impact of comorbidities on Cancer Prognosis and Survival: a Population-Based Evaluation Recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger cancer patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly cancer patients are the group with higher cancer incidence rates. As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the cancer registries of Granada and Girona, identified all incident cases (n = 4,678) from five different cancer sites.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>About uscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about.utf8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about.utf8/</guid>
-      <description>About uscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/twitter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/twitter/</guid>
-      <description>Twittercode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>/twitter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/twitter/</guid>
-      <description> Non‐Communicable and Cancer Epidemiology Group, Biomedical Research Institute of Granada (ibs.Granada) You can find us at:
-Miguel Ángel Luque Fernández Daniel Redondo Sánchez </description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>/twitter.utf8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/twitter.utf8/</guid>
-      <description> Non‐Communicable and Cancer Epidemiology Group, Biomedical Research Institute of Granada (ibs.Granada) You can find us at:
-Miguel Ángel Luque Fernández Daniel Redondo Sánchez </description>
-    </item>
-    
-  </channel>
-</rss>
