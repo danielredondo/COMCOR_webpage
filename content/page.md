@@ -30,11 +30,9 @@ We are a team with a broad multidisciplinary background, leading cancer research
 
 We develop our work in the [**Granada Cancer Registry**](http://www.cancergranada.org), at the [**Andalusian School of Public Health**](http://www.easp.es/).
 
-### **The team:**
-
 ![](images/logo_MALF.png)
 
-### Miguel Ángel Luque Fernández
+### **Miguel Ángel Luque Fernández**
 
 * Doctor con distinción europea y premio de doctorado en Epidemiología y Salud Pública por la Universidad de Granada.
 * Máster en Bioestadística, Universidad de Newcastle, Australia.
@@ -51,7 +49,7 @@ We develop our work in the [**Granada Cancer Registry**](http://www.cancergranad
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@watzilei](http://www.twitter.com/watzilei)
 
-### <img src="images/git.jpg" alt="git" style="width: 20px;"/>  [migariane](https://github.com/migariane)
+### <img src="images/git.jpg" alt="git" style="width: 20px;"/>  [@migariane](https://github.com/migariane)
 
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *miguel.luque.easp at juntadeandalucia.es*
 
@@ -59,13 +57,13 @@ We develop our work in the [**Granada Cancer Registry**](http://www.cancergranad
 
 ![](images/logo_DRS.png)
 
-### Daniel Redondo Sánchez
+### **Daniel Redondo Sánchez**
 
 * Licenciado en Matemáticas. Universidad de Granada.
 * Experto Universitario en Epidemiología e Investigación Clínica. Universidad de Granada
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
 
-### <img src="images/git.jpg" alt="git" style="width: 20px;"/>  [danielredondo](https://github.com/danielredondo)
+### <img src="images/git.jpg" alt="git" style="width: 20px;"/>  [@danielredondo](https://github.com/danielredondo)
 
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
