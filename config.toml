@@ -1,4 +1,4 @@
-baseurl         = "https://eueung.github.io/hugo-sp-minimal/"
+baseurl         = "/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
 title           = "CoMCoR"
@@ -23,4 +23,3 @@ ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = ""
   description = "Comorbidities and colorectal cancer"
   pageNotFoundTitle = "404 - Page not found"
-
