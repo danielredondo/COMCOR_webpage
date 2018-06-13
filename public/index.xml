@@ -6,6 +6,7 @@
     <description>Recent content on CoMCoR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/</guid>
-      <description>Recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger cancer patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly cancer patients are the group with higher cancer incidence rates. As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the cancer registries of Granada and Girona, identified all incident cases (n = 4,678) from five different cancer sites.</description>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/</guid>
+      <description>Cancer recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly patients are the group with higher cancer incidence rates. As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the population-based cancer registries of Granada and Girona identified all incident cases (n=1,061) from colorectal cancer patients.</description>
     </item>
     
   </channel>
