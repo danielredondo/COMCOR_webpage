@@ -32,7 +32,7 @@ We develop our work in the [**Granada Cancer Registry**](http://www.cancergranad
 
 ![](images/logo_MALF.png)
 
-### **Miguel Ángel Luque Fernández, BSc, MA, MPH, GStat, MSc, PhD**
+### **Miguel Ángel Luque Fernández**
 Senior Scientific Researcher of Epidemiology and Biostatistics  
 Miguel Servet I Award, Carlos III Institute of Health  
 Ibs.Granada, Andalusian School of Public Health.  
