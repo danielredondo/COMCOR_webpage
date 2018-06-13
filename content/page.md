@@ -32,7 +32,7 @@ We develop our work in the [**Granada Cancer Registry**](http://www.cancergranad
 
 ![](images/logo_MALF.png)
 
-### **Miguel Ángel Luque Fernández**
+### **Miguel Ángel Luque Fernández, MA, MPH, MSc, PhD**
 Senior Scientific Researcher of Epidemiology and Biostatistics  
 Miguel Servet I Award, Carlos III Institute of Health  
 Ibs.Granada, Andalusian School of Public Health.  
@@ -41,7 +41,7 @@ Granada, Spain
 [Hugo Academic Webpage](http://watzilei.com/maluque.html)  
 
 Visitor Scientist, Department of Epidemiology,  
-TH Chan Harvard School of Public Health  
+TH Chan Harvard School of Public Health, Boston, MA, U.S.A. 
 [TH Chan HSPH Academic Webpage](https://scholar.harvard.edu/malf)  
  
 Professor of Epidemiology and Biostatistics (Honorary)  
