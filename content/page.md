@@ -40,9 +40,9 @@ Cuesta del Observatorio, 4, 18080
 Granada, Spain    
 [Hugo Academic Webpage](http://watzilei.com/maluque.html)  
 
-Visitor Scientist, Department of Epidemiology,  
-TH Chan Harvard School of Public Health, Boston, MA, U.S.A.   
-[TH Chan HSPH Academic Webpage](https://scholar.harvard.edu/malf)    
+Visitor Scientist, Department of Epidemiology,    
+TH Chan Harvard School of Public Health, Boston, MA, U.S.A.     
+[HSPH Webpage](https://scholar.harvard.edu/malf)      
  
 Assistant Professor of Epidemiology and Biostatistics (Honorary)   
 Department of Non-Communicable Disease Epidemiology  
