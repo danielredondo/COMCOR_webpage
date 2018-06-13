@@ -16,6 +16,8 @@ The main objective of the proposal is to **investigate the extent to which comor
 
 **The investigation will contribute to promote policy action aiming to reduce cancer survival disparities.**
 
+## [Our Shiny app.](http://watzilei.com/shiny/CoMCoR/)
+
 ---------------------
 
 ## About us
