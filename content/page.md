@@ -44,7 +44,7 @@ Visitor Scientist, Department of Epidemiology,
 TH Chan Harvard School of Public Health, Boston, MA, U.S.A. 
 [TH Chan HSPH Academic Webpage](https://scholar.harvard.edu/malf)  
  
-Professor of Epidemiology and Biostatistics (Honorary)  
+Assistant Professor of Epidemiology and Biostatistics (Honorary)  
 Department of Non-Communicable Disease Epidemiology  
 London School of Hygiene and Tropical Medicine, London, U.K.    
 [LSHTM Academic Webpage](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)  
