@@ -61,13 +61,20 @@ Tutorials [Link to Epidemiological and Statistical tutorials](http://migariane.g
 
 ![](images/logo_DRS.png)
 
-### **Daniel Redondo Sánchez**
+### **Daniel Redondo Sánchez, Mathematician**
 
-* Licenciado en Matemáticas. Universidad de Granada.
-* Experto Universitario en Epidemiología e Investigación Clínica. Universidad de Granada
+Research Assistant
+
+Biomedical Research Institute of Granada, Andalusian School of Public Health 
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
 
-### <img src="images/git.jpg" alt="git" style="width: 20px;"/>  [@danielredondo](https://github.com/danielredondo)
+### <img src="images/git.jpg" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
 
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
+
+---------------------
+
+![](images/logo_ibs.png)
+
+![](images/logo_feder.png)
