@@ -65,7 +65,9 @@ Tutorials [Link to Epidemiological and Statistical tutorials](http://migariane.g
 
 Research Assistant
 
-Biomedical Research Institute of Granada, Andalusian School of Public Health 
+Biomedical Research Institute of Granada, Andalusian School of Public Health.  
+Cuesta del Observatorio, 4, 18080  
+Granada, Spain
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
 
