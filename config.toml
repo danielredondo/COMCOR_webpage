@@ -9,7 +9,7 @@ ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   title       = "CoMCoR"
-  subtitle    = "The Impact of Comorbidities on Colorectal Cancer Time to Surgical Treatment and Cancer Treatment: A High-Resolution Population-Based Study"
+  subtitle    = "The Impact of Comorbidities on Colorectal Cancer Treatment and Time to Surgery: A High-Resolution Population-Based Study"
   copyright   = "Released under the MIT license."
   authorImage = "logo.png"
 

@@ -2,6 +2,8 @@
 type: "onepage"
 ---
 
+## Background and objectives
+
 Cancer recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly patients are the group with higher cancer incidence rates. As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the population-based cancer registries of Granada and Girona identified all incident cases (n=1,061) from colorectal cancer patients. Clinical information from patients diagnosed during the year 2011 and follow-up until December 31st, 2016, was collected as part of a High-Resolution European study (HIGHCARE project-Eranet TRANSCAN). Patients and tumour characteristics, type of treatment, and comorbidities were drawn from medical records.  
 
 The main objective of the proposal is to **describe the pattern of comorbidities** by patient, tumour and healthcare factors and **to investigate** the extent to which comorbidities influence **time from diagnosis to cancer surgical treatment** and **cancer treatment**. 
@@ -63,7 +65,7 @@ Tutorials [Link to Epidemiological and Statistical tutorials](http://migariane.g
 
 ### **Daniel Redondo Sánchez, Mathematician**
 
-Research Assistant
+Research Assistant of Epidemiology and Biostatistics.
 
 Biomedical Research Institute of Granada, Andalusian School of Public Health.  
 Cuesta del Observatorio, 4, 18080  
