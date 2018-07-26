@@ -1,14 +1,14 @@
 baseurl         = "/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
-title           = "CoMCoR"
+title           = "comcor"
 disqusShortname = ""
 paginate        = 5
 ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params]
-  title       = "CoMCoR"
+  title       = "comcor"
   subtitle    = "The Impact of Comorbidities on Colorectal Cancer Treatment and Time to Surgery: A High-Resolution Population-Based Study"
   copyright   = "Released under the MIT license."
   authorImage = "logo.png"
@@ -18,7 +18,7 @@ ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #"simple" or "original"
   themeStyle = "simple"
 
-  googleAnalytics = ""
+  googleAnalytics = "UA-122924444-1"
 
   name = ""
   description = "Comorbidities and colorectal cancer"
