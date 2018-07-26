@@ -1,14 +1,13 @@
 baseurl         = "/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
-title           = "comcor"
+title           = "CoMCoR"
 disqusShortname = ""
 paginate        = 5
 ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-
 [params]
-  title       = "comcor"
+  title       = "CoMCoR"
   subtitle    = "The Impact of Comorbidities on Colorectal Cancer Treatment and Time to Surgery: A High-Resolution Population-Based Study"
   copyright   = "Released under the MIT license."
   authorImage = "logo.png"

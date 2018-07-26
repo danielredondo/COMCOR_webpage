@@ -22,7 +22,7 @@ The main objective of the proposal is to **describe the pattern of comorbidities
 
 ## Apps
 
-#### [- comcor: Comorbidities' frequency, distribution, and risk among colorectal cancer patients: A population-based high-resolution study in Spain.](http://watzilei.com/shiny/CoMCoR/)
+#### [- CoMCoR: Comorbidities' frequency, distribution, and risk among colorectal cancer patients: A population-based high-resolution study in Spain.](http://watzilei.com/shiny/CoMCoR/)
 
 #### - timsurg: A ShinyApp tool to evaluate time to surgery among colorectal cancer patients with comorbidities: A population-based high-resolution study in Spain (work in progress)
 
