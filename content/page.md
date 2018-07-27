@@ -28,6 +28,10 @@ The main objective of the proposal is to **describe the pattern of comorbidities
 
 ---------------------
 
+[<img src="/img/tw.png"  style = "width:40%;">](https://twitter.com/intent/tweet?url=http://comcor.netlify.com/&via=WATZILEI)
+
+---------------------
+
 ## About us
 
 ## **Non‐Communicable and Cancer Epidemiology Group, Biomedical Research Institute of Granada (ibs.Granada)**
