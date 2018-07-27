@@ -28,7 +28,7 @@ The main objective of the proposal is to **describe the pattern of comorbidities
 
 ---------------------
 
-[<img src="/img/tw.png"  style = "width:40%;">](https://twitter.com/intent/tweet?url=http://comcor.netlify.com/&via=WATZILEI)
+[<img src="/img/twitter_share.png"  style = "width:40%;">](https://twitter.com/intent/tweet?url=http://comcor.netlify.com/&via=WATZILEI)
 
 ---------------------
 
