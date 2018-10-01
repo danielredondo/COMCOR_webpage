@@ -38,9 +38,9 @@ The main objective of the proposal is to **describe the pattern of comorbidities
 
 Carlos III Institute of Health, Grant/Award Number: CP17/002026
 
-We are a team with a broad multidisciplinary background, leading cancer research in Spain and Europe.
+We are a team with expertise in Epidemiology, Biostatistics, Public Health, Social Sciences and Mathematics.
 
-We develop our work in the [**Granada Cancer Registry**](http://www.cancergranada.org), at the [**Andalusian School of Public Health**](http://www.easp.es/).
+We develop our work at the [**Biomedical Research Institute of Granada**](https://www.ibsgranada.es/), based at the [**Granada Cancer Registry**](http://www.cancergranada.org), placed at the [**Andalusian School of Public Health**](http://www.easp.es/).
 
 ![](images/logo_MALF.png)
 
@@ -65,7 +65,7 @@ Tutorials [Link to Epidemiological and Statistical tutorials](http://migariane.g
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@watzilei](http://www.twitter.com/watzilei)
 
-### <img src="images/git.jpg" alt="git" style="width: 20px;"/>  [@migariane](https://github.com/migariane)
+### <img src="images/git.png" alt="git" style="width: 20px;"/>  [@migariane](https://github.com/migariane)
 
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *miguel.luque.easp at juntadeandalucia.es*
 
@@ -83,7 +83,7 @@ Granada, Spain
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
 
-### <img src="images/git.jpg" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
+### <img src="images/git.png" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
 
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
 
