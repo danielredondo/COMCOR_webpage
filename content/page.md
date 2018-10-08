@@ -61,7 +61,7 @@ Department of Non-Communicable Disease Epidemiology
 London School of Hygiene and Tropical Medicine, London, U.K.    
 [LSHTM Academic Webpage](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)  
 
-Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCII, Madrid, Spain.
+Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain.
 
 Tutorials [Link to Epidemiological and Statistical tutorials](http://migariane.github.io/)
 
@@ -83,7 +83,7 @@ Biomedical Research Institute of Granada, Andalusian School of Public Health.
 Cuesta del Observatorio, 4, 18080  
 Granada, Spain
 
-Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCII, Madrid, Spain.
+Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain.
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
 
