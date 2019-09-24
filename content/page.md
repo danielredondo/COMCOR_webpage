@@ -73,23 +73,27 @@ Tutorials [Link to Epidemiological and Statistical tutorials](http://migariane.g
 
 ---------------------
 
-![](images/logo_DRS.png)
+### <img src="images/logo_ESF.jpg" alt="git" style="width: 100px;"/>
 
-### **Daniel Redondo Sánchez, Mathematician**
+### **Elena Salamanca Fernández, MSc**
 
-Research Assistant of Epidemiology and Biostatistics.
+Research Assistant of Environmental Epidemiology. PhD student.
 
-Biomedical Research Institute of Granada, Andalusian School of Public Health.  
-Cuesta del Observatorio, 4, 18080  
+Biomedical Research Institute of Granada, ibs Granada. University of Granada.
+Andalusian School of Public Health.
+Cuesta del Observatorio, 4, 18080
 Granada, Spain
 
-Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain.
+Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain 
 
-### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
+Research Support Unit. San Cecilio Clinical Hospital, Granada.
 
-### <img src="images/git.png" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
+Pollution Surveillance and Control Laboratory. Environment and Water Agency, Ministry of Environment, Junta de Andalucía.
 
-### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
+
+### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@E_salamanca](http://www.twitter.com/E_salamanca)
+
+### <img src="images/email.png" alt="email" style="width: 20px;"/>  *elena.salamanca.easp at juntadeandalucia.es*
 
 ---------------------
 
