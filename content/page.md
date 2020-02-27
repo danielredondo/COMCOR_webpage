@@ -109,7 +109,7 @@ Granada, Spain
 
 ### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
 
-### <img src="images/git.jpg" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
+### <img src="images/git.png" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
 
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
 
