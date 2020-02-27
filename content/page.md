@@ -97,6 +97,26 @@ Pollution Surveillance and Control Laboratory. Environment and Water Agency, Min
 
 ---------------------
 
+![](images/logo_DRS.png)
+
+### **Daniel Redondo Sánchez, Mathematician (BSc, MSc)**
+
+Research Assistant of Epidemiology and Biostatistics.
+
+Biomedical Research Institute of Granada, Andalusian School of Public Health.  
+Cuesta del Observatorio, 4, 18080  
+Granada, Spain
+
+### <img src="images/tw.png" alt="twitter" style="width: 20px;"/> [@dredondosanchez](http://www.twitter.com/dredondosanchez)
+
+### <img src="images/git.jpg" alt="git" style="width: 20px;"/> [@danielredondo](https://github.com/danielredondo)
+
+### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
+
+
+
+---------------------
+
 ![](images/logo_ibs.png)
 
 <img src="images/logo_ciber.png" alt="CIBER" style="width: 250px; text-align:center"/>
