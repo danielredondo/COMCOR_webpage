@@ -8,6 +8,14 @@ Cancer recurrence and disease-free survival are usually analysed in clinical tri
 
 As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the population-based cancer registries of Granada and Girona identified all incident cases (n=1,061) from colorectal cancer patients. Clinical information from patients diagnosed during the year 2011 and follow-up until December 31st, 2016, was collected as part of a High-Resolution European study (HIGHCARE project-Eranet TRANSCAN). Patients and tumour characteristics, type of treatment, and comorbidities were drawn from medical records.
 
+
+In our first article related to this project [(Clinical Epidemiology, 2020)](http://doi.org/10.2147/CLEP.S229935), we describe the pattern of comorbidity in colorectal cancer patients, and the impact of multimorbidity on time to surgery. In the second article [(European Journal of Cancer, 2020)](https://doi.org/10.1016/j.ejca.2020.01.021), we report the most common multimorbidity patterns, and identify the relationship between multimorbidity and short-term mortality in colorectal cancer patients.
+
+
+
+
+This research will contribute to promote policy action aiming to reduce cancer survival disparities.
+
 ---------------------
 
 ## Articles
@@ -17,15 +25,9 @@ As part of the effort to evaluate real-world comparative effectiveness research 
 *Miguel Angel Luque-Fernandez, Daniel Redondo-Sanchez, Shing Fung Lee, Miguel Rodríguez-Barranco, Mª Carmen Carmona-García, Rafael Marcos-Gragera, María José Sánchez.*  
 [Clinical Epidemiology](http://doi.org/10.2147/CLEP.S229935)
 
-In this article we describe the pattern of comorbidity in colorectal cancer patients, and identify the impact of multimorbidity on time to surgery. 
-
-We identify a consistent pattern of factors associated with a higher prevalence of comorbidities and multimorbidity at diagnosis and an increased time-to-surgery among patients with colorectal cancer with multimorbidity in Spain. This pattern may provide insights for further etiological and preventive research and help to identify patients at a higher risk for poorer cancer outcomes and suboptimal treatment. 
-
 ### - **Multimorbidity and short-term overall mortality among colorectal cancer patients in Spain: A population-based cohort study.**
 *Miguel A.Luque-Fernandez, Karen Gonçalves, Elena Salamanca-Fernándeza, Daniel Redondo-Sanchez, Shing F.Lee, Miguel Rodríguez-Barranco, Mª C. Carmona-García, Rafael Marcos-Gragera, María-José Sánchez*   
 [European Journal of Cancer](https://doi.org/10.1016/j.ejca.2020.01.021)
-
-In the second article we study the association between multimorbidity and short-term mortality among colorectal cancer patients. We found that multimorbidity was a strong independent predictor of short-term mortality at 6 months and 1 year among the colorectal cancer patients in Spain. The identified multimorbidity pattern was consistent. Our findings might help identify patients at a higher risk for poor cancer and treatment outcomes.
 
 ---------------------
 
