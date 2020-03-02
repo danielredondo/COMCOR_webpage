@@ -128,6 +128,11 @@ Granada, Spain
 
 ---------------------
 
+### Funding: 
+
+Miguel Ángel Luque Fernández was supported by the Spanish National Health Institute Carlos III (Instituto de Salud Carlos III), Miguel Servet-I Investigator Grant/Award Number: CP17/00206-EU-FEDER and María José Sánchez for the Andalusian Department of Health, Grant Number: PI-0152/2017.
+
+---------------------
 ![](images/logo_ibs.png)
 
 <img src="images/logo_ciber.png" alt="CIBER" style="width: 250px; text-align:center"/>
