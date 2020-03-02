@@ -6,24 +6,16 @@ type: "onepage"
 
 Cancer recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly patients are the group with higher cancer incidence rates.
 
-As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the population-based cancer registries of Granada and Girona identified all incident cases (n=1,061) from colorectal cancer patients. Clinical information from patients diagnosed during the year 2011 and follow-up until December 31st, 2016, was collected as part of a High-Resolution European study (HIGHCARE project-Eranet TRANSCAN). Patients and tumour characteristics, type of treatment, and comorbidities were drawn from medical records.
-
-
-In our first article related to this project [(Clinical Epidemiology, 2020)](http://doi.org/10.2147/CLEP.S229935), we describe the pattern of comorbidity in colorectal cancer patients, and the impact of multimorbidity on time to surgery. In the second article [(European Journal of Cancer, 2020)](https://doi.org/10.1016/j.ejca.2020.01.021), we report the most common multimorbidity patterns, and identify the relationship between multimorbidity and short-term mortality in colorectal cancer patients.
-
-
-
-
-This research will contribute to promote policy action aiming to reduce cancer survival disparities.
+As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the population-based cancer registries of Granada and Girona identified all incident cases (n=1,061) from colorectal cancer patients. Detailed clinical information was collected from medical records as part of a High-Resolution European study (HIGHCARE project-Eranet TRANSCAN). The clinical information included patients and tumour characteristics, type of treatment and comorbidities status. Patients were followed until the end of December 2016 to assess their vital status.
 
 ---------------------
 
 ## Articles
 
-
 ### - **Multimorbidity by Patient and Tumor Factors and Time-to-Surgery Among Colorectal Cancer Patients in Spain: A Population-Based Study.**
 *Miguel Angel Luque-Fernandez, Daniel Redondo-Sanchez, Shing Fung Lee, Miguel Rodríguez-Barranco, Mª Carmen Carmona-García, Rafael Marcos-Gragera, María José Sánchez.*  
 [Clinical Epidemiology](http://doi.org/10.2147/CLEP.S229935)
+
 
 ### - **Multimorbidity and short-term overall mortality among colorectal cancer patients in Spain: A population-based cohort study.**
 *Miguel A.Luque-Fernandez, Karen Gonçalves, Elena Salamanca-Fernándeza, Daniel Redondo-Sanchez, Shing F.Lee, Miguel Rodríguez-Barranco, Mª C. Carmona-García, Rafael Marcos-Gragera, María-José Sánchez*   
@@ -68,8 +60,8 @@ Cuesta del Observatorio, 4, 18080
 Granada, Spain    
 [Hugo Academic Webpage](http://watzilei.com/maluque.html)  
 
-Visitor Scientist, Department of Epidemiology,    
-TH Chan Harvard School of Public Health, Boston, MA, U.S.A.     
+Research Scientist Collaborator, Department of Epidemiology,    
+Harvard TH Chan School of Public Health, Boston, MA, U.S.A.     
 [HSPH Webpage](https://scholar.harvard.edu/malf)      
  
 Assistant Professor of Epidemiology and Biostatistics (Honorary)   
