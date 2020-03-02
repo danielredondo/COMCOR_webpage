@@ -4,6 +4,13 @@ type: "onepage"
 
 ## Abstract
 
+Cancer recurrence and disease-free survival are usually analysed in clinical trials, enrolling healthier and younger patients than the general cancer population, thus being unrepresentative for the real-world where comorbid elderly patients are the group with higher cancer incidence rates.
+
+As part of the effort to evaluate real-world comparative effectiveness research and cancer survival outcomes, the population-based cancer registries of Granada and Girona identified all incident cases (n=1,061) from colorectal cancer patients. Clinical information from patients diagnosed during the year 2011 and follow-up until December 31st, 2016, was collected as part of a High-Resolution European study (HIGHCARE project-Eranet TRANSCAN). Patients and tumour characteristics, type of treatment, and comorbidities were drawn from medical records.
+
+In the first article related to this project [(Clinical Epidemiology, 2020)](http://doi.org/10.2147/CLEP.S229935), we describe the pattern of comorbidity in colorectal cancer patients, and identify the impact of multimorbidity on time to surgery.
+
+
 
 
 **The research will contribute to promote policy action aiming to reduce cancer survival disparities.**
