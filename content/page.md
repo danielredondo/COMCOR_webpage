@@ -20,15 +20,33 @@ The main objective of the proposal is to **describe the pattern of comorbidities
 
 ---------------------
 
-## Apps
+## Articles
 
-#### - [CoMCoR](http://watzilei.com/shiny/CoMCoR/): Comorbidities' frequency, distribution, and risk among colorectal cancer patients: A population-based high-resolution study in Spain.
 
-#### - [TiMSurG](http://watzilei.com/shiny/timsurg/): A ShinyApp tool to evaluate time to surgery among colorectal cancer patients with comorbidities: A population-based high-resolution study in Spain.
+### - **Multimorbidity by Patient and Tumor Factors and Time-to-Surgery Among Colorectal Cancer Patients in Spain: A Population-Based Study.**
+*Miguel Angel Luque-Fernandez, Daniel Redondo-Sanchez, Shing Fung Lee, Miguel Rodríguez-Barranco, Mª Carmen Carmona-García, Rafael Marcos-Gragera, María José Sánchez.*  
+[Clinical Epidemiology](http://doi.org/10.2147/CLEP.S229935)
+
+### - **Multimorbidity and short-term overall mortality among colorectal cancer patients in Spain: A population-based cohort study.**
+*Miguel A.Luque-Fernandez, Karen Gonçalves, Elena Salamanca-Fernándeza, Daniel Redondo-Sanchez, Shing F.Lee, Miguel Rodríguez-Barranco, Mª C. Carmona-García, Rafael Marcos-Gragera, María-José Sánchez*   
+[European Journal of Cancer](https://doi.org/10.1016/j.ejca.2020.01.021)
 
 ---------------------
 
-[<img src="/img/twitter_share.png"  style = "width:40%;">](https://twitter.com/intent/tweet?url=http://comcor.netlify.com/&via=WATZILEI)
+## Apps
+
+### - [CoMCoR](http://watzilei.com/shiny/CoMCoR/)
+
+#### Comorbidities' frequency, distribution, and risk among colorectal cancer patients: A population-based high-resolution study in Spain.
+
+![](images/gif.gif)
+
+[Reproducible code in GitHub](https://github.com/migariane/CoMCoR)
+
+
+### - [TiMSurG](http://watzilei.com/shiny/timsurg/)
+
+#### A Shiny App tool to evaluate time to surgery among colorectal cancer patients with comorbidities: A population-based high-resolution study in Spain.
 
 ---------------------
 
@@ -114,6 +132,9 @@ Granada, Spain
 ### <img src="images/email.png" alt="email" style="width: 20px;"/>  *daniel.redondo.easp at juntadeandalucia.es*
 
 
+---------------------
+
+[<img src="/img/twitter_share.png"  style = "width:40%;">](https://twitter.com/intent/tweet?url=http://comcor.netlify.com/&via=WATZILEI)
 
 ---------------------
 
