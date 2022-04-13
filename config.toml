@@ -8,7 +8,7 @@ ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   title       = "CoMCoR"
-  subtitle    = "The Impact of Comorbidities on Colorectal and Lung Cancer Treatment and Time to Surgery: A High-Resolution Population-Based Study"
+  subtitle    = "The Impact of Comorbidities on Colorectal and Lung Cancer Treatment, Time to Surgery and short-term mortality: A High-Resolution Population-Based Study"
   copyright   = "Released under the MIT license."
   authorImage = "logo.png"
 
@@ -20,5 +20,5 @@ ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   googleAnalytics = "UA-122924444-1"
 
   name = ""
-  description = "Comorbidities and colorectal cancer"
+  description = "Comorbidities, colorectal, and lung cancer"
   pageNotFoundTitle = "404 - Page not found"
