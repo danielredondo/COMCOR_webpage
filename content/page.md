@@ -27,6 +27,14 @@ CoMCoR findings might help identify patients at a higher risk for poor cancer an
 *Miguel A.Luque-Fernandez, Karen Gonçalves, Elena Salamanca-Fernándeza, Daniel Redondo-Sanchez, Shing F.Lee, Miguel Rodríguez-Barranco, Mª C. Carmona-García, Rafael Marcos-Gragera, María-José Sánchez*   
 [European Journal of Cancer](https://doi.org/10.1016/j.ejca.2020.01.021)
 
+### - **The role of multimorbidity in short-term mortality of lung cancer patients in Spain: a population-based cohort study.**
+*Maja Niksic, Daniel Redondo-Sanchez, Yoe-Ling Chang, Miguel Rodriguez-Barranco, Jose Exposito-Hernandez, Rafael Marcos-Gragera, Ester Oliva-Poch, Joaquim Bosch-Barrera, Maria-Jose Sanchez, Miguel Angel Luque-Fernandez*   
+[BMC Cancer](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-021-08801-9)
+
+### - **Bayesian variable selection and survival modeling: assessing the Most important comorbidities that impact lung and colorectal cancer survival in Spain.**
+*Francisco Javier Rubio, Danilo Alvares, Daniel Redondo-Sanchez, Rafael Marcos-Gragera, María-José Sánchez, Miguel Angel Luque-Fernandez*   
+[BMC Medicall Research Methodology](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01582-0)
+
 ---------------------
 
 ## Apps
@@ -38,7 +46,6 @@ CoMCoR findings might help identify patients at a higher risk for poor cancer an
 ![](images/gif.gif)
 
 [Reproducible code in GitHub](https://github.com/migariane/CoMCoR)
-
 
 ### - [TiMSurG](http://watzilei.com/shiny/timsurg/)
 
